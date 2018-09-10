@@ -1,4 +1,4 @@
-﻿# OWASP Security wit Azure
+﻿# OWASP Security with Azure
 
 Are you responsible for web applications? 
 Are you familiar with OWASP and the OWASP Top 10 Vulnerabilities?
